@@ -5,9 +5,6 @@
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
         <input class="input is-medium" type="text" placeholder="John Smith" />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="user" />
-        </span>
       </div>
     </div>
     <!-- Email -->
@@ -19,9 +16,6 @@
           type="email"
           placeholder="you@email.com"
         />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="envelope" />
-        </span>
       </div>
     </div>
     <!-- Subject -->
@@ -33,9 +27,6 @@
           type="text"
           placeholder="Brief Summary"
         />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="briefcase" />
-        </span>
       </div>
     </div>
     <!-- Message -->
