@@ -2,27 +2,27 @@
 
   <form action="action_page.php">
 <ul>    
-<li>  <h2><label for="fname">First Name</label></h2>
+<li>  <label for="fname"><h3>First Name</h3></label>
     <input type="text" 
   id="fname" name="firstname" placeholder="Your name..">
     
-    <h2><label for="lname">Last Name</label></h2>
+    <label for="lname"><h3>Last Name</h3></label>
     <input type="text" 
   id="lname" name="lastname" placeholder="Your last name.."></li>
     
-<li><h2><label for="email">Email</label></h2>
+<li>  <label for="email"><h3>Email</h3></label>
     <input type="email" 
   id="email" name="Email-Id" placeholder="Your Email- ID"></li>
     
-<li>  <h2><label for="subject">Subject</label></h2>
+<li>  <label for="subject"><h3>Subject</h3></label>
     <textarea 
-  id="subject" name="subject" placeholder="Your Enquiry.." 
-  style="height:200px width:800px"></textarea></li>
+  id="subject" name="subject" placeholder="Write something.." 
+  style="height:200px width:400"></textarea></li>
 
-<li><h2><input 
-  type="button" value="Submit"></h2></li>
+<li>    <input 
+  type="submit" value="Submit"></li>
 </ul>
 
-</form>
+  </form>
 
 </template>
