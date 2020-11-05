@@ -11,7 +11,7 @@ import ContactForm from '~/components/ContactForm'
 export default {
   head() {
     return {
-      title: `Contact | ${this.$siteConfig.siteName}`
+      script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }]
     }
   },
   components: { ContactForm }
