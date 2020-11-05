@@ -1,8 +1,13 @@
 <template>
   <div class="main text-center flex flex-col items-center justify-center">
     <!-- <logo /> -->
-    <h1 class="title">Nuxt — Tailwind — Netlify CMS</h1>
-    <h2 class="subtitle">Boilerplate</h2>
+    <img src="~/assets/uploads/contact-person.jpg">
+    <h1 class="title">Rutvik Solanki</h1>
+    <h2 class="subtitle">Mechanical Engineer</h2>
+    <p></p>
+    <ul><h2> Educational History </h2>
+    <li><h3>12th
+
   </div>
 </template>
 
