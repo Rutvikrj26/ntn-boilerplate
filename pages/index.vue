@@ -5,7 +5,6 @@
     <h2 class="subtitle">Boilerplate</h2>
   </div>
 </template>
-
 <script>
 // import Logo from '~/components/Logo.vue'
 
